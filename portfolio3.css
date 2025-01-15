@@ -1,0 +1,21 @@
+body{
+    background-image: url("blade-runner-2049-art-hd-02-1920x1080.jpg");
+    }
+    #About{
+        color:white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 50px;
+        text-decoration: underline;
+    }
+        
+    p{
+        color:white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+    }
+    .aboutme{
+        border: 2px solid white;
+      height:800px;
+      width:1600px;
+        margin-left: 130px;
+    }
