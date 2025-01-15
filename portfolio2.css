@@ -1,0 +1,33 @@
+body{
+    background-image: url("blade-runner-2049-cyberpunk-alley-4k-mm-1920x1080.jpg");
+}
+.edu{
+    height: 200px;
+    width:500px;
+    border: 2px solid white;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 100px;
+}
+#education{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    font-size: 50px;
+}
+.certify{
+    height: 200px;
+    width:500px;
+    border: 2px solid white;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 100px;
+}
+a{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
