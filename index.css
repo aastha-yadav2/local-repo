@@ -1,0 +1,132 @@
+body{
+    background-image: url("ana-de-armas-as-joi-in-blade-runner-2049-4k-3a-1920x1080.jpg");
+}
+#navbar{
+    height: 60px;
+    width: 1900px;
+    border: 2px solid black;
+    background-color: black;
+    opacity: 0.5;
+    
+}
+#alime{
+   font-size: 25px;
+   color:white;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 100px;
+  
+}
+#other{
+    font-size: large;
+   color:white;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 800px;
+}
+#search{
+    height: 28px;
+    width:28px;
+   margin-top: 1px;
+}
+#Hello{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    font-size: 50px;
+   
+    
+}
+#bio{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+   
+}
+#more{
+    height: 50px;
+    width:150px;
+   
+  background-color:black;
+   float:left;
+  border-radius: 20px;
+  text-align: center;
+  opacity: 0.5;
+}
+#moredetails{
+    font-size: 10px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    display:inline;
+}
+#edu{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    font-size: 50px;
+     
+}
+#education{
+    height: 600px;
+    width: 600px;
+    border: 2px solid black;
+    background-color: black;
+    opacity: 0.5;
+    margin-left:10px ;
+}
+#school{
+    font-size: 25px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+   
+
+#schooldetails{
+    font-size: 20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight: 100;
+   margin-left: 10px;
+}
+#youtube{
+height: 50px; 
+width:50px;
+margin-left: 100px;
+}
+#link{
+    height: 50px; 
+    width:50px;
+}
+#insta{
+    height: 50px; 
+    width:50px;
+    
+}
+#find{
+    font-size: 20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+#latest{
+    height: 50px;
+    width:150px;
+  
+  background-color:black;
+ float: right;
+  border-radius: 20px;
+  text-align: center;
+  opacity: 0.5; 
+}
+.container{
+    height: 50px;
+    width:320px;
+    margin-left: 100px;
+}
+a{
+    color: white;
+    font-size: 20px;
+
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
